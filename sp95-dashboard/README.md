@@ -2,7 +2,7 @@
 
 Dashboard Looker Studio connecté à Google Sheets, construit à partir de données de prix des carburants nettoyées avec BigQuery.
 
-**Dashboard en ligne :** [ouvrir dans Looker Studio]https://datastudio.google.com/reporting/665306b5-21da-4a00-818c-c983886ce6d7
+**Dashboard en ligne :** [ouvrir dans Looker Studio](https://datastudio.google.com/reporting/665306b5-21da-4a00-818c-c983886ce6d7)
 
 ## Outils
 
